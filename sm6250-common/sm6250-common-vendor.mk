@@ -2017,7 +2017,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/libhvx_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhvx_interface.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/libhwc2on1adapter.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhwc2on1adapter.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/libhwc2onfbadapter.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhwc2onfbadapter.so \
-    vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/libhwminijail.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhwminijail.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/libidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libidl.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/libipanat.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libipanat.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/libizat_client_api.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libizat_client_api.so \
